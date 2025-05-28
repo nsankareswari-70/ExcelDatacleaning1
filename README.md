@@ -57,3 +57,11 @@ Data Analysis:
 
 3. Find all the events Katy Ferry is attending?
 ![image alt](https://github.com/nsankareswari-70/ExcelDatacleaning1/blob/1d1b1483f3ab70bd7ecaef97bae5210cb9e465cd/P3.png)
+
+Conclusion:
+This project serves as a comprehensive introduction to Excel for data analysts, covering data setup, data cleaning, exploratory data analysis, and business-driven Excel questions. The findings from this project can help drive business decisions by understanding Citywise Events, Events happening on a particular date, or to find out the events a particular person is attending. (Here i pulled the records for Katy Ferry).
+
+End of Project.
+Thank You
+
+
