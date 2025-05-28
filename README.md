@@ -29,7 +29,7 @@ Any missing values are identified with yellow color shading
 Project Structure:
 1. Copy the two tables to a new excel worksheet and name the tables - dataset 1,2
 2. Create a new column Person clean with the help of trim function to remove space
-3. Find the blank cells in columns city and ticket price and fill it will a color to identify easily.
+3. Find the blank cells in columns city and ticket price and fill it with a color to identify easily.
 4. Open a new workbook for clean data and use the get data option to get the datasets from the source file
 5. Use the dataset 2 and make new table with 4 columns
 6. Check the column headings are same in both the tables if not change the headings before appending
