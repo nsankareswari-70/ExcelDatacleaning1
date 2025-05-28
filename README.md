@@ -53,7 +53,7 @@ Data Analysis:
 
 
 2  Get the event details for a particular date?
-
+![image alt](https://github.com/nsankareswari-70/ExcelDatacleaning1/blob/1d1b1483f3ab70bd7ecaef97bae5210cb9e465cd/P2.png)
 
 3. Find all the events Katy Ferry is attending?
-
+![image alt](https://github.com/nsankareswari-70/ExcelDatacleaning1/blob/1d1b1483f3ab70bd7ecaef97bae5210cb9e465cd/P3.png)
