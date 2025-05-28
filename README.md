@@ -9,8 +9,8 @@ This project involves Concepts of:
 
 •	Combining Two Datasets
 •	Extracting Data from a Column
-•	Duplicate Values
-•	Missing Values
+•	Removing Duplicate Values
+•	Handling Missing Values
 •	Spelling Mistakes
 •	Date Format Issues
 •	Number (currency) Issues
