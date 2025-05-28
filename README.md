@@ -49,7 +49,7 @@ Project Structure:
 
 Data Analysis:
 1. I want to see event details that is happening in New York.
-   ![image alt (https://github.com/nsankareswari-70/ExcelDatacleaning1/blob/9c9057cbe45656978dbc6a09b93e36928d9d3a44/P1.png)]
+   ![image alt](https://github.com/nsankareswari-70/ExcelDatacleaning1/blob/9c9057cbe45656978dbc6a09b93e36928d9d3a44/P1.png)
 
 
 2  Get the event details for a particular date?
